@@ -5,6 +5,13 @@ html, body {
   line-height: 14px;
   font-size: 14px;
 }
+.li {
+  margin: 0;
+  font-family: arial,sans-serif;
+  min-width: 900px;
+  line-height: 14px;
+  font-size: 14px;
+}
 
 * {
   box-sizing: border-box;
